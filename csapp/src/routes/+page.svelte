@@ -4,5 +4,5 @@
 </script>
 
 <div>
-<Divider borderWidth="border-t-8" borderStyle="border-solid" borderColor="border-primary-500"/>
+<Divider borderWidth="border-t-8" borderStyle="border-solid" borderColor="border-primary-400"/>
 </div>
